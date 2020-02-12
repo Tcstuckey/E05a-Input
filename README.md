@@ -1,5 +1,5 @@
 # E05-Input
-
+This is a rocketship game created in class on Godot for a C-220 at IU, Bloomington 
 This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
